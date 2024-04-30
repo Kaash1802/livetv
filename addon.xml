@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.kaashtv" name="kaashtv Repository" provider-name="kaashtv" version="0.0.9">
+  <extension point="xbmc.addon.repository" name="kaashtv Repository">
+    <dir>
+      <info compressed="false">https://kaashtv.x10.mx/.repo/repository.kaashtv/addons.xml</info>
+      <checksum>https://kaashtv.x10.mx/.repo/repository.kaashtv/addons.xml.md5</checksum>
+      <datadir zip="true">https://kaashtv.x10.mx/.repo/repository.kaashtv/</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en">Addons by Kaash (kaashtv.x10.mx)</description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
